@@ -1,5 +1,6 @@
+---
 # ~/.config/eza/themes/hacker.yml
-# Hacker theme by january1073
+# Hacker theme (based on your custom colors)
 styles:
   # Directories and files
   di: "32"          # Bold green directories
@@ -8,7 +9,7 @@ styles:
   pi: "1;33"        # Bold yellow pipes
   ex: "1;35"        # Bold magenta executables
   fi: "37"          # Default files (light gray)
-  
+
   # File extensions
   "*.txt": "38;5;244"  # Dark gray text files
   "*.sh": "32"         # Green shell scripts
@@ -16,7 +17,7 @@ styles:
   "*.js": "33"         # Yellow JavaScript files
   "*.md": "38;5;245"   # Light gray Markdown
   "*.conf": "31"       # Red config files
-  
+
   # Metadata
   da: "38;5;240"    # Dark gray timestamps
   ur: "33"          # Yellow user read
