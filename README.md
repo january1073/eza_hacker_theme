@@ -1,2 +1,3 @@
-# eza_hacker_theme
-eza hacker theme
+# Hacker Theme for eza
+
+Requires: [eza](https://github.com/eza-community)
