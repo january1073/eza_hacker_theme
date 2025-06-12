@@ -1,6 +1,6 @@
 ---
 # ~/.config/eza/themes/hacker.yml
-# Hacker theme (based on your custom colors)
+# Hacker theme
 styles:
   # Directories and files
   di: "32"          # Bold green directories
