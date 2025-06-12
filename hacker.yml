@@ -1,0 +1,31 @@
+# ~/.config/eza/themes/hacker.yml
+# Hacker theme by january1073
+styles:
+  # Directories and files
+  di: "32"          # Bold green directories
+  ln: "1;36"        # Bold cyan symlinks
+  so: "1;31"        # Bold red sockets
+  pi: "1;33"        # Bold yellow pipes
+  ex: "1;35"        # Bold magenta executables
+  fi: "37"          # Default files (light gray)
+  
+  # File extensions
+  "*.txt": "38;5;244"  # Dark gray text files
+  "*.sh": "32"         # Green shell scripts
+  "*.py": "34"         # Blue Python files
+  "*.js": "33"         # Yellow JavaScript files
+  "*.md": "38;5;245"   # Light gray Markdown
+  "*.conf": "31"       # Red config files
+  
+  # Metadata
+  da: "38;5;240"    # Dark gray timestamps
+  ur: "33"          # Yellow user read
+  uw: "31"          # Red user write
+  ux: "32"          # Green user execute
+  gr: "33"          # Yellow group read
+  gw: "31"          # Red group write
+  gx: "32"          # Green group execute
+  tr: "33"          # Yellow others read
+  tw: "31"          # Red others write
+  tx: "32"          # Green others execute
+  xx: "37"          # Light gray no permissions
