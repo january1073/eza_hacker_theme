@@ -2,4 +2,4 @@
 
 Requires: [eza](https://github.com/eza-community)
 
-![Screenshot](screen.png)
+![Screenshot](screenshot.png)
